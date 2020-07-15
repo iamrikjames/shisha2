@@ -23,7 +23,7 @@
 define( 'DB_NAME', 'shisha2_db' );
 
 /** MySQL database username */
-define( 'DB_USER', 'shisha2db_user' );
+define( 'DB_USER', 'shisha2_db_user' );
 
 /** MySQL database password */
 define( 'DB_PASSWORD', 'Jvy2f8$2' );
